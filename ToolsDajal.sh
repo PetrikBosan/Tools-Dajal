@@ -4,14 +4,14 @@ figlet "Tools DAJAL"
 echo "---------------------------------------"
 echo "Author : Zaqi"
 echo "Instagram : PetrikBosan" 
-echo "GitHub : https://github.com/PetrikBosan
+echo "GitHub : https://github.com/PetrikBosan"
 echo "--------------------------------------"
 echo
 echo "Pilih Menu Toolsny"
 echo "[1] Brutal Sms"
 echo "[2] Terkey"
 echo "[3] Fake Email"
-echo "[4] INSTALL BAHAN(Masih Perbaikan)"
+echo "[4] INSTALL BAHAN(:"
 echo "[5] Lihat Jumlah Covid19"
 read -p "[?] Pilih : " pil;
 #BATAS
