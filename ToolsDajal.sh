@@ -3,9 +3,9 @@ clear
 figlet "Tools DAJAL"
 echo "---------------------------------------"
 echo "Author : Zaqi"
-echo "Instagram : PetrikBosan"
-echo "github : Gak Punya"
-echo "---------------------------------------"
+echo "Instagram : PetrikBosan" 
+echo "GitHub : https://github.com/PetrikBosan
+echo "--------------------------------------"
 echo
 echo "Pilih Menu Toolsny"
 echo "[1] Brutal Sms"
