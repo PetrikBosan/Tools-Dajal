@@ -13,7 +13,7 @@ echo "[2] Terkey"
 echo "[3] Fake Email"
 echo "[4] INSTALL BAHAN(:"
 echo "[5] Lihat Jumlah Covid19"
-echo "[6] Kalkulator
+echo "[6] Kalkulator"
 read -p "[?] Pilih : " pil;
 #BATAS
 if [ $pil = 1 ]
