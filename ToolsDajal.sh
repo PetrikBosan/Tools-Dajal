@@ -1,13 +1,23 @@
-#nyoba bikin script
+#JanDiRecodeGoblok!
 clear
+#Warna
+r="\033[1;31m"
+g="\033[1;32m"
+y="\033[1;33m"
+b="\033[1;34m"
+p="\033[1;35m"
+cy="\033[1;36m"
+w="\033[1;37m"
+
+echo $g
 figlet "Tools DAJAL"
-echo "---------------------------------------"
-echo "Author : Zaqi"
-echo "Instagram : PetrikBosan" 
-echo "GitHub : https://github.com/PetrikBosan"
-echo "--------------------------------------"
+echo $w"---------------------------------------"
+echo $g" Author"$r"   :  "$cy"Zaqi"
+echo $g" Instagram "$r"  :  "$cy"PetrikBosan" 
+echo $g" GitHub  "$r" :  "$cy"https://github.com/PetrikBosan"
+echo $w"--------------------------------------"
 echo
-echo "Pilih Menu Toolsny"
+echo $p"Pilih Menu Toolsny"
 echo "[1] Brutal Sms"
 echo "[2] Terkey"
 echo "[3] Fake Email"
